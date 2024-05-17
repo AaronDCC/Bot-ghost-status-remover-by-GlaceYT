@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["EzBy! the best Team 🌟",".gg/ezby = 🔥❤️","Créé un ticket pour rejoindre la Team 🎟️","Regarde CW ⚔️"];
 
 
 let currentIndex = 0;
